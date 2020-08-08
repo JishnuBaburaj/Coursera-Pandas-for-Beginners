@@ -10,17 +10,17 @@ This project provides plenty of challenges with solutions to encourage you to pr
 
 In a video that plays in a split-screen with your work area, your instructor will walk you through these steps:
 
-1) Three methods of creating a Series.
+1) Three methods of creating a series.
 
-2) Two methods of creating Data frames.
+2) Two methods of creating data frames.
 
-3) Importing/Exporting different types of data files and viewing rows.
+3) Importing/exporting different types of data files and viewing rows.
 
 4) Get a summary of the data & view column names and data types.
 
-5) Calculate mean & cumulative sum. Determine Minimum and maximum values.
+5) Calculate mean & cumulative sum. Determine minimum & maximum values.
 
-6) String operations such as converting to uppercase letters , lowercase letters, Swap case and finding the length of a string, splitting strings and detecting unique values.
+6) String operations such as converting to uppercase letters , lowercase letters, swap case, finding the length of a string, splitting strings and detecting unique values.
 
 7) Repeating strings.
 
