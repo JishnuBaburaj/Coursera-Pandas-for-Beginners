@@ -2,6 +2,8 @@
 
 # Coursera- Pandas Python Library for Beginners in Data Science
 
+## Check out the project here: https://coursera.org/share/706f9d4519678be78f872b7630d192b7
+
 This guided project is for absolute beginners in data science who want to learn about the features in pandas, one of the most important python libraries for data analysis.
 
 By the end of this project, you will master the basics of pandas. You will be able to gain insight into the data, clean it, and do basic preprocessing to get the most value out of your data.
@@ -24,6 +26,7 @@ In a video that plays in a split-screen with your work area, your instructor wil
 
 7) Repeating strings.
 
+## Check out the project here: https://coursera.org/share/706f9d4519678be78f872b7630d192b7
 
 ### About the Instructor
 
